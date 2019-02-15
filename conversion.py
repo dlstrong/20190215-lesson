@@ -1,6 +1,6 @@
 Imagine this is a script.
 
-edits here
+edits IN THE MIDDLE OF A LINE here
 
 Edits from the purple partner screen
 
